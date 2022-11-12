@@ -12,7 +12,7 @@
 
 ## Sofia's Cloud Journey
 
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/ana-sofia-teixeira)
+- [My LinkedIn](https://www.linkedin.com/in/ana-sofia-teixeira)
 
 ## Stepping out the door
 
