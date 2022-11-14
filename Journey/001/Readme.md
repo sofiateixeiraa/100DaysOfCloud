@@ -9,12 +9,12 @@ Using AWS as Cloud Provider, I dealt with IAM, EC2 instances, S3 buckets, VPC, S
 
 ## Prerequisite
 
-Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) <br/>
 AWS Free Tier Account
 
 ## Cloud Research
 
-I searched every Terraform code in [this](https://registry.terraform.io/) website.
+I searched every Terraform code on [this](https://registry.terraform.io/) website.
 
 ## Try yourself
 
