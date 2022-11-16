@@ -1,13 +1,13 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIATQZNOGV7DUEVKC7M"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIATQZNOGV7DUEVKC7M"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   alias = "useast2"
 }
 
