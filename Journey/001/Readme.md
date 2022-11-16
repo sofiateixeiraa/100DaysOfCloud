@@ -6,6 +6,7 @@
 
 Prior to this challenge, I already had some Kubernetes basic training, so I decided to start with some Terraform Basics to dive into Infrastructure as a Code.
 Using AWS as Cloud Provider, I dealt with IAM, EC2 instances, S3 buckets, VPC, Subnet and RDS.
+(IAM User deleted for security reasons)
 
 ## Prerequisite
 
